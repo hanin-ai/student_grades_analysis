@@ -1,2 +1,2 @@
 # student_grades_analysis
-Learning data analysis using python
+print("Hello Github ,I am learning AI!") 
